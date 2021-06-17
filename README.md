@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+WellOff is a wellness app supporting multiple features that promote well-being. Details of the app are included below.
+
 ## Available Scripts
 
 To run locally: 
@@ -26,7 +28,12 @@ The user can choose a length of time to meditate for with a timer counting down.
 ![Meditate_2](public/app8.jpg)
 The user can journal their thoughts and their thoughts will be saved along with a timp stamp no matter if the page is refreshed.
 ![Journal](public/app9.jpg)
-If the user has any feedback or wishes to contact me, they can do so and an email will be sent to me with their message.
+If the user has any feedback or wishes to contact me, they can do so and an email will be sent to me through EmailJs.
 ![Feedback](public/app10.jpg)
+![Email](public/app11.png)
+
+
+
+
 
 
