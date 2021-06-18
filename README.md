@@ -1,4 +1,4 @@
-# WellOff | Side Project
+# WellOff | React.JS, CSS, HTML | Side Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
